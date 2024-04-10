@@ -18,6 +18,7 @@ visual cues to enhance gameplay engagement.
 ## More information
 
 [User Guide](User_Guide.pdf)
+[About this mod](https://nusmods.com/courses/EE2026/digital-design)
 
 ## License
 
