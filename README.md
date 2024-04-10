@@ -17,7 +17,7 @@ visual cues to enhance gameplay engagement.
 
 ## More information
 
-[User Guide](User_Guide.pdf)
+[User Guide](User Guide.pdf)
 
 ## License
 
